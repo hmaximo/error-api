@@ -1,0 +1,8 @@
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/DemoApplication.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/service/EventLogService.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/service/EventLogServiceInterface.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/entity/EventLogDTO.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/repository/EventLogRepository.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/entity/EventLog.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/endpoints/EventLogController.java
+/home/helena/codenation/errorapi/src/main/java/com/finalproject/errorapi/entity/Level.java
